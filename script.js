@@ -1,3 +1,4 @@
+// global variable
 var num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, " A", "B", "C", " D", "E", "f"];
 var btn = document.querySelector(".btn");
 var color = document.querySelector(".color");
